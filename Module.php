@@ -61,10 +61,7 @@ class Module extends \yii\base\Module
         'user' => 'Users',
         'assignment' => 'Assignments',
         'role' => 'Roles',
-        'permission' => 'Permissions',
-        'route' => 'Routes',
-        'rule' => 'Rules',
-        'menu' => 'Menus',
+
     ];
     /**
      * @var array 
